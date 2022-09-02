@@ -1,0 +1,12 @@
+<project>
+<modelVersion>4.0.0</modelVersion>
+
+<groupId>com.org.maha.myproject</groupId>
+
+<artifactId>mymavenproject</artifactId>
+
+<Version>1.0</Version>
+
+<packaging>jar</packaging>
+
+</project>
